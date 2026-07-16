@@ -1,0 +1,41 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Java/JDK files
+*.class
+*.hprof
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle
+.gradle/
+build/
+
+# Local configuration
+local.properties
+
+# IDE
+*.iml
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python tooling (golden generators)
+__pycache__/
+*.pyc
+.venv/
+venv/
